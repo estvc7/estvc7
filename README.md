@@ -109,6 +109,3 @@ I'm Esteban, a Detail-oriented and creative software engineer with 7 years of fu
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
